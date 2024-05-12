@@ -1,2 +1,3 @@
 # resume
- Resume
+ I create a resume using simple HTML
+ 
